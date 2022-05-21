@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group >
+    <item android:title="Sắp xếp theo"
+        android:titleCondensed="Sắp xếp theo">
+
+    </item>
+    <item android:id="@+id/last"
+        android:title="Ngày mới nhất xếp trước">
+
+    </item>
+    <item android:id="@+id/oldest"
+        android:title="Ngày cũ nhất xếp trước">
+
+    </item>
+    <item android:id="@+id/biggest"
+        android:title="Tệp lớn nhất xếp trước">
+
+    </item>
+    <item android:id="@+id/smallest"
+        android:title="Tệp nhỏ nhất xếp trước">
+
+    </item>
+    <item android:id="@+id/atoz"
+        android:title="Từ A -> Z"/>
+    <item android:id="@+id/ztoa"
+        android:title="Từ Z -> A"/>
+</group>
+
+</menu>
